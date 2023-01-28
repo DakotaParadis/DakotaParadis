@@ -10,7 +10,7 @@
 </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakotaparadis&theme=gradient&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakotaparadis&layout=compact&theme=gradient&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakotaparadis&theme=tokyonight&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakotaparadis&layout=compact&theme=tokyonight&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
