@@ -8,7 +8,7 @@
 <p align="center">
 <a align="center" href="https://linkedin.com/in/dakotaparadis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dakotaparadis" height="30" width="40" /></a>
 <a align="center" href="https://www.leetcode.com/koda20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="koda20" height="30" width="40" /></a>
-<p align="center">Koda#1616<img unselectable="on" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="koda20" height="30" width="40" /></p>
+<p unselectable="on" align="center">Koda#1616<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="koda20" height="30" width="40" /></p>
 </p>
 
 
