@@ -10,4 +10,5 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dakotaparadis&show_icons=true&locale=en" alt="dakotaparadis" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DakotaPardis)](https://github.com/anuraghazra/github-readme-stats)
+
