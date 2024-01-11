@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Dakota/koda</h1>
+<h1 align="center">Hi 👋, I'm Koda</h1>
 <h3 align="center">Professional 🐛Bug🐛 Creator</h3>
 
 <p align="Center"> <img src="https://komarev.com/ghpvc/?username=dakotaparadis&label=Profile%20views&color=brightgreen&style=flat" alt="dakotaparadis" /> </p>
